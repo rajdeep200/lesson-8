@@ -12,32 +12,32 @@ class Directory extends React.Component {
       sections: [
         {
           title: 'hats',
-          imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+          imageUrl: 'https://i.ibb.co/MgnCxw8/close-up-young-african-man-cap-looking-away-1.jpg',
           id: 1,
           linkUrl: 'hats'
         },
         {
           title: 'jackets',
-          imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+          imageUrl: 'https://i.ibb.co/m0xGMB5/african-american-student-walking-street-talking-phone-1-1.jpg',
           id: 2,
           linkUrl: ''
         },
         {
           title: 'sneakers',
-          imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+          imageUrl: 'https://i.ibb.co/VvNJG3m/treadmill-health-muscular-sun-shaker-1.jpg',
           id: 3,
           linkUrl: ''
         },
         {
           title: 'womens',
-          imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+          imageUrl: 'https://i.ibb.co/jfvqN2G/stylish-woman-spending-time-spring-park-1.jpg',
           size: 'large',
           id: 4,
           linkUrl: ''
         },
         {
           title: 'mens',
-          imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+          imageUrl: 'https://i.ibb.co/pLkQXk0/portrait-handsome-smiling-stylish-hipster-lumbersexual-businessman-model-man-dressed-jeans-jacket-cl.jpg',
           size: 'large',
           id: 5,
           linkUrl: ''
